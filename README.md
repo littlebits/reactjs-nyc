@@ -9,7 +9,7 @@ Speakers
 - Paul Melnikow
 - Justin Falcone
 - Edward Dias
-- Julien Bec
+- Julien Bec & Olivier Jolit
 - John Pearson
 - Colin Vernon
 
