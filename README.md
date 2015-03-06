@@ -1,7 +1,11 @@
 # Welcome to ReactJS New York
 
-## Meetup log
+## Twice a month hack nights at Rent the Runway
+163 Varick St.
+3rd Floor
+Manhattan
 
+## Meetup log
 
 #### February 24, 2015
 
